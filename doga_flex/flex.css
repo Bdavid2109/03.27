@@ -35,3 +35,36 @@ header table td, header table th {
     border: 1px solid black;
     padding: 5px;
 }
+
+.container-box > div {
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    font-size: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    text-align: center;
+    background-color: hsl(173, 34%, 58%);
+}
+
+.div1 {
+    background-color: hsl(46, 100%, 50%);
+}
+
+.div2 {
+    background-color: hsl(49, 100%, 50%);
+}
+
+.div3 {
+    background-color: hsl(52, 100%, 50%);
+}
+
+.div4 {
+    background-color: hsl(55, 100%, 50%);
+}
